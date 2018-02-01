@@ -1,0 +1,54 @@
+ES	State	Phase	x	y	Phase Name	Association
+ES001	1	1.7	3	12	Prairie/Savanna	Andropogon gerardi
+ES001	1	1.6	5	8	Clonal Thicket/Forest	Betula papyrifera-Populus tremuloides
+ES001	1	1.5	3	4	Early Successional Thicket	Acer saccharum-Tilia americana/Phytolacca americana
+ES001	1	1.4	11	14	Open Woodland	Quercus alba/Andropogon gerardi
+ES001	1	1.3	11	10	Mature Forest	Quercus alba-Quercus rubra
+ES001	1	1.2	11	6	Mid Successional Forest	Acer saccharum-Tilia americana/Mitella diphylla 
+ES001	1	1.1	11	2	Mature Forest	Acer saccharum-Fagus grandifolia/Mitella diphylla 
+ES001	2	A1	3	6	Prairie/Savanna	Andropogon gerardi
+ES001	2	B1	11	2	Clonal Thicket/Forest	Betula papyrifera-Populus tremuloides
+ES001	2	A2	3	2	Early Successional Thicket	Acer saccharum-Tilia americana/Phytolacca americana
+ES001	2	B2	11	6	Open Woodland	Quercus alba/Andropogon gerardi
+ES001	3	A1	3	2	Prairie/Savanna	Andropogon gerardi
+ES001	3	B1	3	10	Clonal Thicket/Forest	Betula papyrifera-Populus tremuloides
+ES001	3	A2	11	10	Early Successional Thicket	Acer saccharum-Tilia americana/Phytolacca americana
+ES001	3	B2	11	2	Open Woodland	Quercus alba/Andropogon gerardi
+ES001	3	C2	7	6	Mature Forest	Quercus alba-Quercus rubra
+ES001	4	A1	3	10	Prairie/Savanna	Andropogon gerardi
+ES001	4	A2	11	10	Clonal Thicket/Forest	Betula papyrifera-Populus tremuloides
+ES001	4	B1	3	6	Early Successional Thicket	Acer saccharum-Tilia americana/Phytolacca americana
+ES001	4	B2	11	6	Open Woodland	Quercus alba/Andropogon gerardi
+ES001	4	C1	3	2	Mature Forest	Quercus alba-Quercus rubra
+ES001	4	C2	11	2	Mature Forest	Acer saccharum-Fagus grandifolia/Mitella diphylla 
+ES001	5	A1	3	2	Prairie/Savanna	Andropogon gerardi
+ES001	5	B1	7	6	Clonal Thicket/Forest	Betula papyrifera-Populus tremuloides
+ES001	5	A2	11	2	Early Successional Thicket	Acer saccharum-Tilia americana/Phytolacca americana
+ES001	6	A1	3	2	Prairie/Savanna	Andropogon gerardi
+ES001	6	B1	11	2	Clonal Thicket/Forest	Betula papyrifera-Populus tremuloides
+ES001	7	A1	5	2	Prairie/Savanna	Andropogon gerardi
+ES001	7	B1	5	6	Clonal Thicket/Forest	Betula papyrifera-Populus tremuloides
+ES001	8	8.1	3	12	Prairie/Savanna	Andropogon gerardi
+ES002	1	1.7	3	12	Prairie/Savanna	Andropogon gerardi
+ES002	1	1.6	5	8	Clonal Thicket/Forest	Betula papyrifera-Populus tremuloides
+ES002	1	1.5	3	4	Early Successional Thicket	Acer saccharum-Tilia americana/Phytolacca americana
+ES002	1	1.4	11	14	Open Woodland	Quercus alba/Andropogon gerardi
+ES002	1	1.3	11	10	Mature Forest	Quercus alba-Quercus rubra
+ES002	1	1.2	11	6	Mid Successional Forest	Acer saccharum-Tilia americana/Mitella diphylla 
+ES002	1	1.1	11	2	Mature Forest	Acer saccharum-Fagus grandifolia/Mitella diphylla 
+ES002	2	A1	3	6	Prairie/Savanna	Andropogon gerardi
+ES002	2	B1	11	2	Clonal Thicket/Forest	Betula papyrifera-Populus tremuloides
+ES002	2	A2	3	2	Early Successional Thicket	Acer saccharum-Tilia americana/Phytolacca americana
+ES002	2	B2	11	6	Open Woodland	Quercus alba/Andropogon gerardi
+ES002	3	A1	3	2	Annual Crop	Corn/Soybeans
+ES002	3	A2	3	6	Fallow	Annual Weeds
+ES002	3	B1	11	2	Pasture	Acer saccharum-Tilia americana/Phytolacca americana
+ES002	3	B2	11	6	Wooded Pasture	Quercus alba/Andropogon gerardi
+ES002	3	C1	19	2	Plantation	Quercus alba-Quercus rubra
+ES002	3	C2	19	6	Orchard	Andropogon gerardi
+ES003	1	1.1	3	3	Prairie/Savanna	Andropogon gerardi
+ES003	2	2.1	3	3	Clonal Thicket/Forest	Betula papyrifera-Populus tremuloides
+ES003	3	3.1	3	3	Early Successional Thicket	Acer saccharum-Tilia americana/Phytolacca americana
+ES003	4	4.1	3	3	Open Woodland	Quercus alba/Andropogon gerardi
+ES003	5	5.1	3	3	Mature Forest	Quercus alba-Quercus rubra
+ES003	6	6.1	3	3	Mid Successional Forest	Acer saccharum-Tilia americana/Mitella diphylla 

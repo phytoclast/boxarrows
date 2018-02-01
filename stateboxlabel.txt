@@ -1,0 +1,21 @@
+ES	State	x	y	State Name
+ES001	1	3	12	Reference State
+ES001	2	5	8	4 Phase State
+ES001	3	3	4	5 Phase State
+ES001	4	11	14	6 Phase State
+ES001	5	11	10	3 Phase State
+ES001	6	11	6	2 Phase State H
+ES001	7	11	2	2 Phase State V
+ES001	8	15	2	1 Phase State
+ES001	1	3	12	Reference State
+ES001	2	5	8	4 Phase State
+ES001	3	3	4	5 Phase State
+ES002	1	3	12	Reference State
+ES002	2	5	8	Minimally Managed Alternative State
+ES002	3	3	4	Managed State
+ES003	1	5	10	Prairie/Savanna
+ES003	2	19	10	Clonal Thicket/Forest
+ES003	3	28	10	Early Successional Thicket
+ES003	4	22	4	Open Woodland
+ES003	5	22	16	Mature Forest
+ES003	6	37	10	Mid Successional Forest
